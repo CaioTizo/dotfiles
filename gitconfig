@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = caio.tizo@gmail.com
+	name = Caio Tizo
